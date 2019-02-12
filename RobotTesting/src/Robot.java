@@ -24,7 +24,20 @@ public class Robot {
     }
 
     public void setAge(int age) {
-        this.age = age;
+        if (age <= 30) {
+            this.age = age;
+        } else {
+            throw new IllegalArgumentException();
+
+        }
+
+    }
+    public String checkage() {
+        if (age <= 20) {
+            return "Age ok";
+        } else {
+            return "Too old";
+        }
     }
 
     public boolean isWorking(){
@@ -47,4 +60,13 @@ public class Robot {
             //do nothing
         }
     }
+
+    public double checkCost() {
+        if (age <= 5) {
+            return 10000.00;
+        } else if (age <= 10) {
+            return 7500.00;
+        } else return 5000.00;
+    }
+
 }

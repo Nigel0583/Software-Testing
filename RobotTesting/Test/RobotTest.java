@@ -2,6 +2,7 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.Timeout;
 
+
 import static org.junit.Assert.*;
 
 public class RobotTest {
@@ -9,6 +10,9 @@ public class RobotTest {
     public Timeout globalTimeout = Timeout.millis(2000);
 
     Robot buddy = new Robot("buddy", 4);
+
+
+
 
     @Test
     public void TestGetName() {
