@@ -42,47 +42,42 @@
     <session id="1216773531">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="135" />
+          <entry key="java" value="179" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="135" />
+          <entry key="JAVA" value="179" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Driver.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/DriverScreenOutputTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="89" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="89" />
+            <state relative-caret-position="628">
+              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
               <folding>
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#920#921#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/DriverTestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <state relative-caret-position="119">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
@@ -102,13 +97,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/TestSetDriverNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="38" column="46" lean-forward="true" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+            <state relative-caret-position="646">
+              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,9 +139,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Driver.java" />
         <option value="$PROJECT_DIR$/Test/DriverTestTest.java" />
         <option value="$PROJECT_DIR$/Test/TestSetDriverNum.java" />
+        <option value="$PROJECT_DIR$/src/Driver.java" />
+        <option value="$PROJECT_DIR$/Test/DriverScreenOutputTest.java" />
       </list>
     </option>
   </component>
@@ -141,8 +154,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="857" />
-    <option name="height" value="991" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -150,6 +163,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +180,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +188,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549993976202" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550598624680" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -206,32 +219,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSetDriverNum.testSetDriverNum1">
-    <configuration name="DriverTestTest.TestCheckStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DriverScreenOutputTest">
+    <configuration name="DriverScreenOutputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DriverTesting" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverTestTest" />
-      <option name="METHOD_NAME" value="TestCheckStatus" />
+      <option name="MAIN_CLASS_NAME" value="DriverScreenOutputTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriverScreenOutputTest.testDriverNumNotOkMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DriverTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DriverScreenOutputTest" />
+      <option name="METHOD_NAME" value="testDriverNumNotOkMsg" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverTestTest.TestDriverNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DriverScreenOutputTest.testDriverNumOkMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DriverTesting" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverTestTest" />
-      <option name="METHOD_NAME" value="TestDriverNum" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DriverTestTest.TestToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DriverTesting" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverTestTest" />
-      <option name="METHOD_NAME" value="TestToString" />
+      <option name="MAIN_CLASS_NAME" value="DriverScreenOutputTest" />
+      <option name="METHOD_NAME" value="testDriverNumOkMsg" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -258,19 +269,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DriverTestTest.TestDriverNum" />
-      <item itemvalue="JUnit.DriverTestTest.TestToString" />
-      <item itemvalue="JUnit.DriverTestTest.TestCheckStatus" />
       <item itemvalue="JUnit.TestSetDriverNum.testSetDriverNum" />
       <item itemvalue="JUnit.TestSetDriverNum.testSetDriverNum1" />
+      <item itemvalue="JUnit.DriverScreenOutputTest" />
+      <item itemvalue="JUnit.DriverScreenOutputTest.testDriverNumNotOkMsg" />
+      <item itemvalue="JUnit.DriverScreenOutputTest.testDriverNumOkMsg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DriverScreenOutputTest" />
+        <item itemvalue="JUnit.DriverScreenOutputTest.testDriverNumOkMsg" />
+        <item itemvalue="JUnit.DriverScreenOutputTest.testDriverNumNotOkMsg" />
         <item itemvalue="JUnit.TestSetDriverNum.testSetDriverNum1" />
         <item itemvalue="JUnit.TestSetDriverNum.testSetDriverNum" />
-        <item itemvalue="JUnit.DriverTestTest.TestToString" />
-        <item itemvalue="JUnit.DriverTestTest.TestCheckStatus" />
-        <item itemvalue="JUnit.DriverTestTest.TestDriverNum" />
       </list>
     </recent_temporary>
   </component>
@@ -286,28 +297,11 @@
       <updated>1549387619335</updated>
       <workItem from="1549387624755" duration="1402000" />
       <workItem from="1549988571500" duration="3029000" />
+      <workItem from="1550592666379" duration="2165000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DriverTestTest_TestIsNotWorking - 2019.02.05 at 17h 37m 49s.xml">
-      <configuration name="DriverTestTest.TestIsNotWorking" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DriverTestTest_TestDriverNum - 2019.02.05 at 17h 43m 02s.xml">
-      <configuration name="DriverTestTest.TestDriverNum" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DriverTestTest_TestDriverNum - 2019.02.05 at 17h 44m 33s.xml">
-      <configuration name="DriverTestTest.TestDriverNum" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DriverTestTest_TestDriverNum - 2019.02.05 at 17h 44m 40s.xml">
-      <configuration name="DriverTestTest.TestDriverNum" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DriverTestTest_TestToString - 2019.02.05 at 17h 47m 36s.xml">
-      <configuration name="DriverTestTest.TestToString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DriverTestTest_TestCheckStatus - 2019.02.05 at 17h 48m 32s.xml">
-      <configuration name="DriverTestTest.TestCheckStatus" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DriverTestTest_TestToString - 2019.02.05 at 17h 49m 35s.xml">
       <configuration name="DriverTestTest.TestToString" configurationId="JUnit" />
     </history-entry>
@@ -320,15 +314,33 @@
     <history-entry file="TestSetDriverNum_testSetDriverNum1 - 2019.02.12 at 17h 39m 52s.xml">
       <configuration name="TestSetDriverNum.testSetDriverNum1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DriverScreenOutputTest - 2019.02.19 at 16h 40m 11s.xml">
+      <configuration name="DriverScreenOutputTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverScreenOutputTest - 2019.02.19 at 16h 41m 06s.xml">
+      <configuration name="DriverScreenOutputTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverScreenOutputTest - 2019.02.19 at 16h 41m 27s.xml">
+      <configuration name="DriverScreenOutputTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverScreenOutputTest_testDriverNumNotOkMsg - 2019.02.19 at 16h 43m 24s.xml">
+      <configuration name="DriverScreenOutputTest.testDriverNumNotOkMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverScreenOutputTest_testDriverNumOkMsg - 2019.02.19 at 16h 43m 29s.xml">
+      <configuration name="DriverScreenOutputTest.testDriverNumOkMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverScreenOutputTest - 2019.02.19 at 16h 47m 21s.xml">
+      <configuration name="DriverScreenOutputTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4431000" />
+    <option name="totallyTimeSpent" value="6596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="857" height="991" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.176259" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1761488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -337,7 +349,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32853717" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16404495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,32 +383,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../swTesting/Test/RobotTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="89" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="89" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/DriverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/DriverTest.java" />
     <entry file="file://$PROJECT_DIR$/Test/DriverTestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="119">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
@@ -407,8 +398,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/TestSetDriverNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="38" column="46" lean-forward="true" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        <state relative-caret-position="646">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/DriverScreenOutputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
